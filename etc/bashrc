@@ -42,7 +42,7 @@ export WM_PROJECT_VERSION=2.4.0
 #
 # Location of the OpenFOAM installation
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-foamInstall=/home/omokhtar/$WM_PROJECT
+foamInstall=/home/foam/$WM_PROJECT
 FOAM_INST_DIR=$foamInstall
 # foamInstall=~$WM_PROJECT
 # foamInstall=/opt/$WM_PROJECT
